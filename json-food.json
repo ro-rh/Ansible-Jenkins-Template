@@ -1,0 +1,19 @@
+{
+  "foods": [
+    {
+      "name": "Pizza",
+      "type": "Italian",
+      "ingredients": ["Dough", "Tomato sauce", "Cheese", "Toppings"],
+      "description": "A popular dish consisting of a round, flattened base of dough topped with tomato sauce, cheese, and various toppings."
+    },
+    {
+      "name": "Sushi",
+      "type": "Japanese",
+      "ingredients": ["Rice", "Nori (seaweed)", "Fish or seafood", "Vegetables"],
+      "description": "A traditional Japanese dish of seasoned rice combined with ingredients such as seafood, vegetables, and occasionally tropical fruits."
+    },
+    {
+      "name": "Tacos",
+      "type": "Mexican",
+      "ingredients": ["Tortillas", "Meat or beans", "Cheese", "Salsa", "Lettuce", "Tomato"],
+   
